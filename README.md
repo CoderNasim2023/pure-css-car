@@ -8,7 +8,6 @@ Are you up for a coding challenge that takes your front-end development skills t
 ### The Setup
 
 First, let's set up the basic HTML structure:
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -89,7 +88,7 @@ This media query scales down the entire car for screens with a maximum width of 
 
 ### Conclusion
 
-Building a "No Div" car using HTML, CSS, and JavaScript is a fun and challenging project that demonstrates the creativity and capabilities of front-end development. By using gradients, animations, and clever techniques, you can craft intricate designs without relying on traditional HTML elements. Remember, the devil is in the details, so don't hesitate to experiment and refine your code to achieve the desired effect.
+ "No Div" car using HTML, CSS, and JavaScript is a fun and challenging project that demonstrates the creativity and capabilities of front-end development. By using gradients, animations, and clever techniques, you can craft intricate designs without relying on traditional HTML elements. Remember, the devil is in the details, so don't hesitate to experiment and refine your code to achieve the desired effect.
 
 Feel free to explore and modify the provided code to experiment with different styles, animations, and interactivity. Happy coding!
 
