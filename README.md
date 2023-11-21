@@ -86,7 +86,6 @@ For a responsive design, media queries can be used to adjust the scaling of the 
 
 This media query scales down the entire car for screens with a maximum width of 768px.
 
-### Conclusion
 
  "No Div" car using HTML, CSS, and JavaScript is a fun and challenging project that demonstrates the creativity and capabilities of front-end development. By using gradients, animations, and clever techniques, you can craft intricate designs without relying on traditional HTML elements. Remember, the devil is in the details, so don't hesitate to experiment and refine your code to achieve the desired effect.
 
